@@ -1,3 +1,8 @@
 my repository
 modified one
+<<<<<<< HEAD
 newww line
+=======
+new line
+
+>>>>>>> a96387735c233d5eb8fffc8eadab4a9619f52065
